@@ -5,7 +5,7 @@ The Pokémon Card Daily Twitter Bot is a Python-based project that automatically
 ## Installation
 Clone the repository to your local machine:
 ```javascript
-git clone https://github.com/your-username/Pokemon-Card-Daily.git
+git clone https://github.com/Hublove/PokeCardDaily.git
 ```
 
 ## Configuration
