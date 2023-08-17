@@ -15,11 +15,9 @@ In the config.py file, you can configure various settings:
 
 * **API_SECRET**: Your Twitter API secret.
 
-* **BEARER_TOKEN**: Your Twitter access token.
+* **ACCESS_TOKEN**: Your Twitter access token.
 
-* **ACCESS_TOKEN**: Your Twitter access secret.
-
-* **ACCESS_TOKEN_SECRET**: URL of the Pokémon TCG API.
+* **ACCESS_TOKEN_SECRET**: Your Twitter access secret.
 
 ## Usage
 Obtain your Twitter API credentials by creating a Twitter Developer account and creating an app.
