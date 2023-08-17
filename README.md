@@ -11,7 +11,7 @@ git clone https://github.com/your-username/Pokemon-Card-Daily.git
 ## Configuration
 In the config.py file, you can configure various settings:
 
-⋅⋅* **TWITTER_API_KEY:** Your Twitter API key.
+* **TWITTER_API_KEY:** Your Twitter API key.
 
 ⋅⋅*TWITTER_API_SECRET: Your Twitter API secret.
 
