@@ -35,6 +35,6 @@ python pokemon_card_daily.py
 ## License
 This project is licensed under the MIT License.
 
-Follow the PokeCardDaily Twitter Account for your daily dose of Pokémon trading cards! If you have any questions or suggestions, feel free to reach out.
+Follow the [PokeCardDaily Twitter Account](https://twitter.com/PokeCardDaily) for your daily dose of Pokémon trading cards! If you have any questions or suggestions, feel free to reach out.
 
 Project developed by Your Name.
