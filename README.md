@@ -19,6 +19,17 @@ POKEMON_TCG_API_URL: URL of the Pokémon TCG API.
 CARD_SETS: A list of Pokémon TCG sets to fetch cards from.
 TWEET_INTERVAL_SECONDS: Time interval between each tweet (in seconds).
 
+## Usage
+Obtain your Twitter API credentials by creating a Twitter Developer account and creating an app.
+
+Replace the placeholders in config.py with your Twitter API credentials and desired settings.
+
+Run the pokemon_card_daily.py script to start the bot:
+
+```javascript
+python pokemon_card_daily.py
+```
+
 ## License
 This project is licensed under the MIT License.
 
