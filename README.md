@@ -9,7 +9,7 @@ git clone https://github.com/Hublove/PokeCardDaily.git
 ```
 
 ## Configuration
-In the config.py file, you can configure various settings:
+In the keys.py file, you can configure various settings:
 
 * **API_KEY:** Your Twitter API key.
 
